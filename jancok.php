@@ -142,7 +142,7 @@ echo " ===========================\n";
         echo "\n".color("yellow","                  7. ".$voucher7);
         echo "\n".color("green","                   8. ".$voucher8);
         echo "\n".color("pink","                    9. ".$voucher9);
-        echo "\n".color("Orange","                 10. ".$voucher10);
+        echo "\n".color("red","                 10. ".$voucher10);
         echo "\n".color("pink","                   11. ".$voucher11);
         echo "\n".color("orange","                 12. ".$voucher12);
         echo"\n";
