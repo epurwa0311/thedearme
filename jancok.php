@@ -193,8 +193,9 @@ echo " ===========================\n";
          echo color("red","-] Nomor sudah teregistrasi");
          echo"\n==================================\n\n";
          echo color("yellow","!] Silahkan registrasi kembali\n");
+
          goto ulang;
          }
 //  }
 
-// echo change()."\n";
+// echo change()."\n"; jancok jancok
